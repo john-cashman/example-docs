@@ -21,6 +21,7 @@
 * [Automations](guides/automations.md)
 * [English breakfast tea](guides/english-breakfast-tea.md)
 * [Coffee](guides/coffee.md)
+* [Orange Juice](guides/orange-juice.md)
 
 ## Reference
 
