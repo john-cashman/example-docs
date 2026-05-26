@@ -20,6 +20,7 @@
 * [Custom domains](guides/custom-domains.md)
 * [Automations](guides/automations.md)
 * [English breakfast tea](guides/english-breakfast-tea.md)
+* [Coffee](guides/coffee.md)
 
 ## Reference
 
